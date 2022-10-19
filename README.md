@@ -1,11 +1,13 @@
 <div align="center">
   <h3>Hi, I'm Colin👋</h3>
   <p>
-    <a href="">
+    <a href="https://www.linkedin.com/in/colin-seper-2bb92a235/">
       <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkedln" width="50">
     </a>
   </p>
 </div>
+<hr>
+
 
 <!--
 **colinseper/colinseper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
