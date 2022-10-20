@@ -6,7 +6,15 @@
   <hr>
   <h3> About Me </h3> I am a sophmore studying Computer Science at Saint Louis University in hopes to become a full-stack software engineer. Other than programming I like to play chess ♟️, workout 🏋️, play baskeball 🏀 and listen to music 🎼. 
   <h4>Languages I've Used 👨‍💻</h4>
-    C ● Python ● JavaScript ● R ● MATLAB 
+    C 
+    ● 
+    Python 🐍
+    ● 
+    JavaScript 
+    ● 
+    R 
+    ● 
+    MATLAB 
   <h4>Web and Database</h4>
     HTML ● CSS ● SQL(sqlite)
   <h4>Frameworks</h4>
