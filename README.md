@@ -17,7 +17,7 @@
     <img src="https://user-images.githubusercontent.com/106714511/197012538-4f892a7b-c922-45dd-b090-33218d341c0e.jpg" alt="SQLite" width=80px> 
   <h4>Frameworks</h4>
     <img src="https://user-images.githubusercontent.com/106714511/197012877-f45896af-05af-48a2-bd13-17a8d21d0e10.jpg" alt="Bootstrap" width=40px>
-    <img src="https://user-images.githubusercontent.com/106714511/197013117-d208c0e2-6cb4-4fc5-8a77-b676d872d71f.png" alt="Flask" width=90px>
+    <img src="https://user-images.githubusercontent.com/106714511/197013117-d208c0e2-6cb4-4fc5-8a77-b676d872d71f.png" alt="Flask" width=80px>
   <h4>Coding Journey 🧗</h4> Below I plan to list all the coding courses I've taken, projects I've worked on and basically everything I did (including college courses) until I become a full-stack software engineer, just in case anyone wants course recommendations or ideas on classes to take and at what point.
   <br><br> ● <a href ="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0" target="_blank" rel="noopener noreferrer"> Harvard CS50x</a>(C): No prior programming experience, difficult but helped me immensely both as an introduction to programming and as a confirmation of wanting to become a software engineer. Great course for anyone who has no prior background and wants to learn a bit about learning to code.
   <br><br> ● Intro to Programming with MATLAB(IP - College): 
