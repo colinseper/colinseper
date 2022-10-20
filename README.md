@@ -4,8 +4,8 @@
     <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkedln" width=40px>
   </a> 
   <hr>
-  <h3> About Me </h3> I am a sophmore studying Computer Science at Saint Louis University in hopes to become a full-stack software engineer. Other than programming I like to play chess ♟️, workout 🏋️, play baskeball 🏀 and listen to music 🎼. 
-  <h4>Languages I've Used 👨‍💻</h4>
+  <h3> About Me👨‍💻</h3> I am a sophmore studying Computer Science at Saint Louis University in hopes to become a full-stack software engineer. Other than programming I like to play chess ♟️, workout 🏋️, play baskeball 🏀 and listen to music 🎼. 
+  <h4>Languages I've Used</h4>
     <img src="https://user-images.githubusercontent.com/106714511/197009440-21a05290-fefe-43a3-b8bc-eca5864dcf21.png" alt="C" width=30px>
     <img src="https://user-images.githubusercontent.com/106714511/197010385-f1723c04-ab3f-41be-b747-95bc1ebd4eb6.jpg" alt="Python" width=30px>
     <img src="https://user-images.githubusercontent.com/106714511/197010270-427c44ce-3297-44ca-ba74-88edf98b5509.png" alt="JavaScript" width=30px>
