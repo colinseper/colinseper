@@ -2,11 +2,12 @@
   <h3>Hi, I'm Colin👋</h3>
   <p>
     <a href="https://www.linkedin.com/in/colin-seper-2bb92a235/" target="_blank" rel="noopener noreferrer">
-      <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkedln" width="50">
-    </a>
+      <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkedln" width=50px>
+    </a> 
   </p>
 </div>
 <hr>
+
 
 
 <!--
