@@ -25,5 +25,5 @@
   <br><br> <a href ="https://www.theodinproject.com/paths" target="_blank" rel="noopener noreferrer">The Odin Project</a>
   <br> ● Fundamentals(IP):
   <br> ● Full-Stack JavaScript:
-  <br><br> ● <a href ="https://www.educative.io/courses/learn-java-from-scratch" target ="_blank" rel="noopener noreferrer">Learn Java From Scratch</a>(IP): 
+  <br><br> ● <a href ="https://www.educative.io/courses/learn-java-from-scratch" target ="_blank" rel="noopener noreferrer">Learn Java from Scratch</a>(IP): 
 </div>
