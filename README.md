@@ -8,6 +8,7 @@
   <h4>Languages I've Used</h4>
     <img src="https://user-images.githubusercontent.com/106714511/197009440-21a05290-fefe-43a3-b8bc-eca5864dcf21.png" alt="C" width=30px>
     <img src="https://user-images.githubusercontent.com/106714511/197010385-f1723c04-ab3f-41be-b747-95bc1ebd4eb6.jpg" alt="Python" width=30px>
+  <img src="https://user-images.githubusercontent.com/106714511/203883253-3b915e59-c3ba-4960-8f3c-6ceb8278ef15.png" alt="Java" width=40px>
     <img src="https://user-images.githubusercontent.com/106714511/197010270-427c44ce-3297-44ca-ba74-88edf98b5509.png" alt="JavaScript" width=30px>
     <img src="https://user-images.githubusercontent.com/106714511/197010568-db92737a-bfac-450e-b872-40e2c13e2539.jpg" alt="R" width=30px>
     <img src="https://user-images.githubusercontent.com/106714511/197010738-9e7b9099-7b4a-41a8-97c3-a2e5f8a808a8.jpg" alt="MATLAB" width=30px>
