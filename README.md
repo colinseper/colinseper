@@ -5,7 +5,7 @@
   </a> 
   <hr>
   <h3> About Me👨‍💻</h3> I am a sophmore studying Computer Science at Saint Louis University in hopes to become a full-stack software engineer. Other than programming I like to play chess ♟️, workout 🏋️, play baskeball 🏀 and listen to music 🎼. 
-  <h4>Languages I've Used</h4>
+  <h4>Languages</h4>
     <img src="https://user-images.githubusercontent.com/106714511/197009440-21a05290-fefe-43a3-b8bc-eca5864dcf21.png" alt="C" width=30px>
     <img src="https://user-images.githubusercontent.com/106714511/197010385-f1723c04-ab3f-41be-b747-95bc1ebd4eb6.jpg" alt="Python" width=30px>
   <img src="https://user-images.githubusercontent.com/106714511/203883253-3b915e59-c3ba-4960-8f3c-6ceb8278ef15.png" alt="Java" width=40px>
