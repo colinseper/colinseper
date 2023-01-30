@@ -15,7 +15,7 @@
   <h4>Web and Database</h4>
     <img src="https://user-images.githubusercontent.com/106714511/197011130-1aac181f-c80c-4cf2-8ae2-09ed12d69186.png" alt="HTML" width=40px>
     <img src="https://user-images.githubusercontent.com/106714511/197011416-1b867249-981a-44c9-a549-250316a2fc82.png" alt="CSS" width=29px>
-    <img src="https://user-images.githubusercontent.com/106714511/215587378-d5b38534-31c0-41dc-9532-7c4cfd214ad9.jpg" alt="JavaSwing" width=30px> 
+    <img src="https://user-images.githubusercontent.com/106714511/215587378-d5b38534-31c0-41dc-9532-7c4cfd214ad9.jpg" alt="JavaSwing" width=35px> 
   <h4>Frameworks</h4>
     <img src="https://user-images.githubusercontent.com/106714511/197012877-f45896af-05af-48a2-bd13-17a8d21d0e10.jpg" alt="Bootstrap" width=40px>
     <img src="https://user-images.githubusercontent.com/106714511/197013117-d208c0e2-6cb4-4fc5-8a77-b676d872d71f.png" alt="Flask" width=80px>
