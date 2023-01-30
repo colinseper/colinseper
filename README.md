@@ -29,4 +29,4 @@
   <br> ● Full-Stack JavaScript:
 </div>
 <br><br> ● Introduction to Object Oriented Programming with Python(IP - College):
-<br><br> ● <a href= "https://www.coursera.org/learn/algorithms-part1"> Algorithms I(IP):
+<br><br> ● <a href= "https://www.coursera.org/learn/algorithms-part1"> Algorithms I</a>(IP):
