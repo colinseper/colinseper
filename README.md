@@ -15,11 +15,11 @@
   <h4>Web and Database</h4>
     <img src="https://user-images.githubusercontent.com/106714511/197011130-1aac181f-c80c-4cf2-8ae2-09ed12d69186.png" alt="HTML" width=40px>
     <img src="https://user-images.githubusercontent.com/106714511/197011416-1b867249-981a-44c9-a549-250316a2fc82.png" alt="CSS" width=29px>
-    <img src="https://user-images.githubusercontent.com/106714511/215587378-d5b38534-31c0-41dc-9532-7c4cfd214ad9.jpg" alt="JavaSwing" width=35px> 
+    <img src="https://user-images.githubusercontent.com/106714511/215588012-007623f9-f3db-46f1-aae3-16a492c4c3d7.jpg" alt="SQLite" width=80px> 
   <h4>Frameworks</h4>
     <img src="https://user-images.githubusercontent.com/106714511/197012877-f45896af-05af-48a2-bd13-17a8d21d0e10.jpg" alt="Bootstrap" width=40px>
     <img src="https://user-images.githubusercontent.com/106714511/197013117-d208c0e2-6cb4-4fc5-8a77-b676d872d71f.png" alt="Flask" width=80px>
-    <img src="https://user-images.githubusercontent.com/106714511/197013117-d208c0e2-6cb4-4fc5-8a77-b676d872d71f.png" alt="Flask" width=80px>
+    <img src="https://user-images.githubusercontent.com/106714511/215587378-d5b38534-31c0-41dc-9532-7c4cfd214ad9.jpg" alt="JavaSwing" width=35px>
   <h3>Coding Journey 🧗</h3> Below I plan to list all the coding courses I've taken, projects I've completed, and basically everything I did (including college courses) until I become a full-stack software engineer, just in case anyone wants course recommendations or ideas on classes to take and at what point. Most of the resources I use will be free, but inevitably some courses cannot be avaible online (college classes) or I may spend money on a course if I feel it is worth it. I will give a nod to projects I completed here, but descriptions/code will be in one of my repositories.
   <br><br> ● <a href ="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0" target="_blank" rel="noopener noreferrer"> Harvard CS50x</a>(C): No prior programming experience, difficult but helped me immensely both as an introduction to programming and as a confirmation of wanting to become a software engineer. Great course for anyone who has no prior background and wants to learn a bit about learning to code. Created a full-stack webpage for my final project (CS50_Final_Project Repository).
   <br><br> ● Intro to Programming with MATLAB(C - College): Review of general principles and introduction to MATLAB language. Created Snake game for final project, viewable in repositories(Intro_to_MATLAB_Final_Project).
