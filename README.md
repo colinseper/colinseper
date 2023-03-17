@@ -15,5 +15,5 @@ I am a sophmore studying Computer Science at Saint Louis University in hopes to 
 ### Learn about my Coding Journey Here 📈
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=CodingJourney)](https://github.com/colinseper/CodingJourney)
 
-
-
+### Personal Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=Quizzer)](https://github.com/colinseper/Quizzer)
