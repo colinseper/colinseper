@@ -10,7 +10,7 @@ I am a sophmore studying Computer Science at Saint Louis University in hopes to 
 #### Check out some of my Langauge stats below!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinseper&layout=compact)](https://github.com/colinseper/github-readme-stats)
 - In addition to the languages listed I also know a bit of C, JavaScript and R
-- In terms of Database and Frameworks I know SQL (MySQL and SQLite), Bootstrap, Flask and JavaSewing
+- In terms of Database and Frameworks I know SQL (MySQL and SQLite), Bootstrap, Flask and JavaSwing
 
 ### Learn about my Coding Journey Here 📈
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=CodingJourney)](https://github.com/colinseper/CodingJourney)
