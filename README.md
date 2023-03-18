@@ -4,11 +4,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title = "Linkedln" alt="Linkedln" width="40" height="40">
 </a>
 
-### About Me👨‍💻
+### 👨‍💻About Me:
 I am a sophmore studying Computer Science at Saint Louis University in hopes to become a full-stack software engineer. Other than programming I like to play chess ♟️, workout 🏋️, play baskeball 🏀 and listen to music 🎼. 
+- 📓 I'm currently studying Algorithms I on Coursera 
+- 🌱 I started studying computer science less than a year ago
+- 📧 You can reach me via Linkedln or through gmail
 
-
-#### Languages, Web, Database and Frameworks
+#### 🛠️ Languages, Web, Database and Frameworks 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -22,11 +24,13 @@ I am a sophmore studying Computer Science at Saint Louis University in hopes to 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
-##### Check out some of my Langauge stats below!
+#### 📊 Check out some of my Github and Langauge stats below!
+![Colin's GitHub stats](https://github-readme-stats.vercel.app/api?username=colinseper&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinseper&layout=compact)](https://github.com/colinseper/github-readme-stats)
 
-### Learn about my Coding Journey Here 📈
+### 📈 Learn about my Coding Journey Here 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=CodingJourney)](https://github.com/colinseper/CodingJourney)
 
-### Personal Projects
+### 👀 Personal Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=Quizzer)](https://github.com/colinseper/Quizzer)
