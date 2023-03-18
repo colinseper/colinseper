@@ -8,7 +8,7 @@
 I am a sophmore studying Computer Science at Saint Louis University in hopes to become a full-stack software engineer. Other than programming I like to play chess ♟️, workout 🏋️, play baskeball 🏀 and listen to music 🎼. 
 - 📓 I'm currently studying Algorithms I on Coursera 
 - 🌱 I started studying computer science less than a year ago
-- 📧 You can reach me via Linkedln or through gmail
+- 📧 You can reach me via Linkedln or Gmail
 
 #### 🛠️ Languages, Web, Database and Frameworks 
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
