@@ -1,10 +1,10 @@
 ![banner (2)](https://user-images.githubusercontent.com/106714511/226019974-c199d769-8b30-494e-85ca-21b555962c58.png)
-### Visit me around the web!
+### ✈️ Visit me around the web!
 <a href="https://www.linkedin.com/in/colin-seper-2bb92a235/" target="blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title = "Linkedln" alt="Linkedln" width="40" height="40">
 </a>
 
-### 👨‍💻About Me:
+### 👨‍💻 About Me:
 I am a sophmore studying Computer Science at Saint Louis University in hopes to become a full-stack software engineer. Other than programming I like to play chess ♟️, workout 🏋️, play baskeball 🏀 and listen to music 🎼. 
 - 📓 I'm currently studying Algorithms I on Coursera
 - 🌱 I started studying computer science less than a year ago
