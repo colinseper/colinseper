@@ -32,4 +32,4 @@ I am a sophmore studying Computer Science at Saint Louis University in hopes to 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=Quizzer)](https://github.com/colinseper/Quizzer)
 
 ### 🏫 Class Projects/Problems
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=Algorithms_ProblemSets)](https://github.com/colinseper/Algorihtms_ProblemSets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=Algorithms_ProblemSets)](https://github.com/colinseper/Algorithms_ProblemSets)
