@@ -35,3 +35,5 @@ I am a junior studying Computer Science at Saint Louis University in hopes to be
 
 ### 🏫 Class Projects/Problems
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=Algorithms_ProblemSets)](https://github.com/colinseper/Algorithms_ProblemSets)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=Intro_to_MATLAB_Final_Project)](https://github.com/colinseper/Intro_to_MATLAB_Final_Project)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=colinseper&repo=CS50_Final_Project)](https://github.com/colinseper/CS50_Final_Project)
