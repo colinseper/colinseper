@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me:
 I am a junior studying Computer Science at Saint Louis University in hopes to become a full-stack software engineer. Other than programming I like to play chess ♟️, workout 🏋️, play baskeball 🏀 and listen to music 🎼. 
-- 📓 I'm currently studying Algorithms II on Coursera
+- 📓 I'm currently studying Harvard CS50's Introduction to Artifical Intelligence with Python on edX
 - 🌱 I started studying computer science a year ago
 - 📧 You can reach me via Email or Linkedln
 
