@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me:
 I am a junior studying Computer Science at Saint Louis University in hopes to become a full-stack software engineer. Other than programming I like to play chess ♟️, workout 🏋️, play baskeball 🏀 and listen to music 🎼. 
-- 📓 I'm currently studying ai via. fast.ai courses, game design via. CS50 for Game Design and creating projects (alongside my internship)
+- 📓 I'm currently studying ai via. fast.ai courses and creating projects (alongside my internship)
 - 😎 I started studying computer science about two years ago
 - 📧 You can reach me via Email or Linkedln
 
